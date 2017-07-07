@@ -1,2 +1,2 @@
 # assignments_SU_semester
-Assignments for summer semester
+This is a repository for assignments during the summer semester 2017.
